@@ -75,24 +75,24 @@ Recommended background:
 
 ---
 
-## Weekly Topics
+# Course Schedule
 
-| Week | Topic |
-|---|---|
-| 1 | Introduction to AI-Augmented and AI-Attacked Computer Networks |
-| 2 | Foundations of Machine Learning for Networking |
-| 3 | Network Telemetry, Data Collection, and Observability |
-| 4 | Traffic Classification and Application Identification |
-| 5 | Deep Learning for Network Analytics |
-| 6 | Reinforcement Learning for Routing and Congestion Control |
-| 7 | AI for SDN and Network Resource Management |
-| 8 | Graph Learning for Networked Systems |
-| 9 | AI for Cybersecurity: IDS, Malware, and DDoS Defense |
-| 10 | Adversarial Machine Learning in Networks |
-| 11 | LLMs for Network Automation and Operations |
-| 12 | LLMs as Attackers and Defenders |
-| 13 | Trustworthy and Secure AI for Networks |
-| 14 | Integration, Case Studies, and Student Presentations |
+| Week | Topic | Lecture Page |
+|---|---|---|
+| 1 | Introduction to AI-Augmented and AI-Attacked Computer Networks | [Week 1](lectures/week1.html) |
+| 2 | Foundations of Machine Learning for Networking | [Week 2](lectures/week2.html) |
+| 3 | Network Telemetry, Data Collection, and Observability | [Week 3](lectures/week3.html) |
+| 4 | Traffic Classification and Application Identification | [Week 4](lectures/week4.html) |
+| 5 | Deep Learning for Network Analytics | [Week 5](lectures/week5.html) |
+| 6 | Reinforcement Learning for Routing and Congestion Control | [Week 6](lectures/week6.html) |
+| 7 | AI for SDN and Network Resource Management | [Week 7](lectures/week7.html) |
+| 8 | Graph Learning for Networked Systems | [Week 8](lectures/week8.html) |
+| 9 | AI for Cybersecurity: IDS, Malware, and DDoS Defense | [Week 9](lectures/week9.html) |
+| 10 | Adversarial Machine Learning in Networks | [Week 10](lectures/week10.html) |
+| 11 | LLMs for Network Automation and Operations | [Week 11](lectures/week11.html) |
+| 12 | LLMs as Attackers and Defenders | [Week 12](lectures/week12.html) |
+| 13 | Trustworthy and Secure AI for Networks | [Week 13](lectures/week13.html) |
+| 14 | Integration, Case Studies, and Student Presentations | [Week 14](lectures/week14.html) |
 
 ---
 
