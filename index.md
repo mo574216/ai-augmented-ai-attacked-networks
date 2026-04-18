@@ -5,8 +5,9 @@ Welcome to the course website.
 ## Course Pages
 - [Syllabus](./syllabus)
 - [Schedule](./schedule)
-- [Assignments](./assignments)
-- [Updates](./updates)
+- [Labs](./labs)
+- [Project](./project)
+- [References](./references)
 
 ## About this site
 This website will be updated regularly as the course content evolves.
