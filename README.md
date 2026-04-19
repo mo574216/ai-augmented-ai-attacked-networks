@@ -2,7 +2,7 @@
 
 This repository contains the course website and teaching materials for the graduate-level course:
 
-**AI-Augmented and AI-Attacked Computer Networks**
+[**AI-Augmented and AI-Attacked Computer Networks**](https://mo574216.github.io/ai-augmented-ai-attacked-networks/)
 
 The course explores how artificial intelligence is transforming computer networks from both the **operational/defensive** side and the **offensive/adversarial** side. It covers machine learning for networking, AI for cybersecurity, LLMs for network automation, adversarial machine learning, and trustworthy AI for networked systems.
 
