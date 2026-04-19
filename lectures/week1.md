@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 1 — Introduction to AI-Augmented and AI-Attacked Computer Networks
 nav_order: 1
 ---
 
