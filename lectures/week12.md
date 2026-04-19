@@ -1,3 +1,8 @@
+---
+title: Week 12- LLMs as Attackers and Defenders
+nav_order: 12
+---
+
 # Week 12: LLMs as Attackers and Defenders
 
 ## Overview
