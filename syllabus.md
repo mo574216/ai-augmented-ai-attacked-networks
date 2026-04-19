@@ -1,3 +1,7 @@
+---
+title: Syllabus
+---
+
 # AI-Augmented and AI-Attacked Computer Networks
 
 ## Course Description
