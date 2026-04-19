@@ -1,3 +1,10 @@
+---
+title: Week 5- Deep Learning for Network Analytics
+nav_order: 5
+
+---
+
+
 # Week 5: Deep Learning for Network Analytics
 
 ## Overview
