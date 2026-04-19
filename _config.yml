@@ -1,3 +1,18 @@
 title: AI-Augmented and AI-Attacked Computer Networks
 description: Graduate course site with syllabus, weekly topics, readings, labs, and updates.
-theme: jekyll-theme-minimal
+
+remote_theme: just-the-docs/just-the-docs
+
+url: https://mo574216.github.io
+baseurl: /ai-augmented-ai-attacked-networks
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "Repository on GitHub":
+    - "https://github.com/mo574216/ai-augmented-ai-attacked-networks"
+
+nav_external_links:
+  - title: Course Website
+    url: https://mo574216.github.io/ai-augmented-ai-attacked-networks/
