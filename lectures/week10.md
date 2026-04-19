@@ -1,3 +1,9 @@
+---
+title: Week 10- Adversarial Machine Learning in Networks
+nav_order: 10
+
+---
+
 # Week 10: Adversarial Machine Learning in Networks
 
 ## Overview
