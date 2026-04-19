@@ -1,3 +1,11 @@
+---
+title: Week 7 - AI for SDN and Network Resource Management
+nav_order: 7
+
+
+---
+
+
 # Week 7: AI for SDN and Network Resource Management
 
 ## Overview
