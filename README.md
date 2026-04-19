@@ -76,6 +76,15 @@ A key focus throughout the course is ensuring **safe and reliable AI deployment*
 - Governance and policy constraints
 - Human oversight and bounded autonomy
 
+
+## 🤖 AI-Assisted Content
+
+This repository includes materials that were partially generated or edited using AI-based tools.  
+These tools were used to support content development, structuring, and refinement.
+
+All content has been carefully reviewed and validated by the instructor.
+
+
 ---
 
 ## 📁 Repository Structure
