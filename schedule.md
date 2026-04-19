@@ -3,8 +3,6 @@
 ## AI-Augmented and AI-Attacked Computer Networks
 
 This page provides the weekly schedule for the course.  
-Each week includes the main topic, key focus areas, and the intended practical or academic emphasis.
-
 ---
 
 ## Weekly Schedule
