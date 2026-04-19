@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 2: Foundations of Machine Learning for Networking
 nav_order: 2
 ---
 
