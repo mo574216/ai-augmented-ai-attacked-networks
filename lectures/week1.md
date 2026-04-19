@@ -1,9 +1,10 @@
-# Week 1 — Introduction to AI-Augmented and AI-Attacked Computer Networks
-
 ---
 title: Week 1
 nav_order: 1
 ---
+
+
+# Week 1 — Introduction to AI-Augmented and AI-Attacked Computer Networks
 
 
 ## Overview
