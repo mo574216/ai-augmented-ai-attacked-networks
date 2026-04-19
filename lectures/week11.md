@@ -1,8 +1,7 @@
 ---
 title: Week 11- LLMs for Network Automation and Operations
 
-nav_order: 10
-
+nav_order: 11
 ---
 
 # Week 11: LLMs for Network Automation and Operations
