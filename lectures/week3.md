@@ -1,3 +1,8 @@
+---
+title: Week 3- Network Telemetry, Data Collection, and Observability for AI-Driven Networking
+nav_order: 3
+---
+
 # Week 3: Network Telemetry, Data Collection, and Observability for AI-Driven Networking
 
 ## Overview
