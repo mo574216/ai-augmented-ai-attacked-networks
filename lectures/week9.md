@@ -1,3 +1,10 @@
+---
+title: Week 9 - AI for Cybersecurity — IDS, Malware, and DDoS Defense
+nav_order: 9
+
+---
+
+
 # Week 9: AI for Cybersecurity — IDS, Malware, and DDoS Defense
 
 ## Overview
