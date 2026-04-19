@@ -1,3 +1,11 @@
+---
+title: Week 8 - Graph Learning for Networked Systems
+nav_order: 8
+
+
+---
+
+
 # Week 8: Graph Learning for Networked Systems
 
 ## Overview
