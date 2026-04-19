@@ -1,3 +1,9 @@
+---
+title: Week 13 - Trustworthy and Secure AI for Networks
+nav_order: 13
+---
+
+
 # Week 13: Trustworthy and Secure AI for Networks
 
 ## Overview
