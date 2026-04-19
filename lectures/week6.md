@@ -1,3 +1,9 @@
+---
+title:  Week 6- Reinforcement Learning for Routing and Congestion Control
+nav_order: 6
+
+---
+
 # Week 6: Reinforcement Learning for Routing and Congestion Control
 
 ## Overview
