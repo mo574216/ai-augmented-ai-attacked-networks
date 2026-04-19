@@ -1,3 +1,8 @@
+---
+title: Week 14- Integration, Case Studies, and Student Presentations
+nav_order: 14
+---
+
 # Week 14: Integration, Case Studies, and Student Presentations
 
 ## Overview
