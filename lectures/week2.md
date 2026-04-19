@@ -1,3 +1,8 @@
+---
+title: Week 2
+nav_order: 2
+---
+
 # Week 2: Foundations of Machine Learning for Networking
 
 ## Overview
