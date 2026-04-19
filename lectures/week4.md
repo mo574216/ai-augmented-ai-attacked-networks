@@ -1,3 +1,9 @@
+---
+title: Week 4- Traffic Classification and Application Identification in the Age of AI
+nav_order: 4
+---
+
+
 # Week 4: Traffic Classification and Application Identification in the Age of AI
 
 ## Overview
